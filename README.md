@@ -11,9 +11,10 @@
 1. [Basic embedded C demo using STM32F103C6](/stm32f103c6-demo/README.md)
 2. [Overview and best practices for data types in embedded C](/embedded-c-data-types/README.md)
 3. [Struct and union data types in embedded C](/struct-union-data-types/README.md)
-4. [Functions in embedded C: Implementation and best practices](/embedded-c-function/README.md)
-5. [Macros in embedded C: Usage, best practices, and pitfalls](/c-macro/README.md)
-6. [Inline functions in embedded C: Performance optimization and best practices](/c-inline-function/README.md)
+4. [Enumerations in embedded C: Type safety and best practices](/c-enumeration/README.md)
+5. [Functions in embedded C: Implementation and best practices](/embedded-c-function/README.md)
+6. [Macros in embedded C: Usage, best practices, and pitfalls](/c-macro/README.md)
+7. [Inline functions in embedded C: Performance optimization and best practices](/c-inline-function/README.md)
 
 # Development Toolbox
 
