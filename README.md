@@ -12,9 +12,10 @@
 2. [Overview and best practices for data types in embedded C](/embedded-c-data-types/README.md)
 3. [Struct and union data types in embedded C](/struct-union-data-types/README.md)
 4. [Enumerations in embedded C: Type safety and best practices](/c-enumeration/README.md)
-5. [Functions in embedded C: Implementation and best practices](/embedded-c-function/README.md)
-6. [Macros in embedded C: Usage, best practices, and pitfalls](/c-macro/README.md)
-7. [Inline functions in embedded C: Performance optimization and best practices](/c-inline-function/README.md)
+5. [If statements in embedded C: Pitfalls, best practices, and advanced techniques](/c-if-statement/README.md)
+6. [Functions in embedded C: Implementation and best practices](/embedded-c-function/README.md)
+7. [Macros in embedded C: Usage, best practices, and pitfalls](/c-macro/README.md)
+8. [Inline functions in embedded C: Performance optimization and best practices](/c-inline-function/README.md)
 
 # Development Toolbox
 
