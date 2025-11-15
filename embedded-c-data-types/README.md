@@ -90,10 +90,10 @@ const uint8_t EmbeddedC_DataSizeInBytes_u8[] = {
 🚀 [Embedded C Practical Projects](/)
 
 # Repositories
-🏠 [My Repositories](https://github.com/jet-studio)
+🏠 [My Repositories](https://github.com/hothienai)
 
 # My Website
-🌐 [Jet Station](https://jet-station.github.io/)
+🌐 [Ho Thien Ai](https://hothienai.github.io/)
 
 # Contact & Discussion
 If you have any thing would like to discuss or cooperate with me, please don't hesitate to contact me via:
